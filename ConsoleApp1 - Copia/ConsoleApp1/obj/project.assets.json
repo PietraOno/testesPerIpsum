@@ -78,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\outsp\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\outsp\\Desktop\\testesPerIpsum\\ConsoleApp1 - Copia\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\outsp\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\outsp\\Desktop\\testesPerIpsum\\ConsoleApp1 - Copia\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\outsp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\outsp\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\outsp\\Desktop\\testesPerIpsum\\ConsoleApp1 - Copia\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\outsp\\AppData\\Roaming\\NuGet\\NuGet.Config",

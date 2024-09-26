@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hkj8CCghQ6I=",
+  "dgSpecHash": "JFtBQZC67eM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\outsp\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\outsp\\Desktop\\testesPerIpsum\\ConsoleApp1 - Copia\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\outsp\\.nuget\\packages\\htmlagilitypack\\1.11.66\\htmlagilitypack.1.11.66.nupkg.sha512"
   ],
